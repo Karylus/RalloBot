@@ -18,6 +18,8 @@ To run the software you just need to have instaled Python on your computer.
 
 To deploy the software just click on main.py
 
+It's important to delete all white cells in the .csv, either way the programm won't work correctly sometimes.
+
 ## Built With
 
 * [Sublime Text 3](https://www.sublimetext.com/3) - Text editor
